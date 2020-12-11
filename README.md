@@ -1,4 +1,4 @@
-# GurkiratKhaira_COMP228_Sec005_Lab2
+# F2020_Java_Lab2
 
 Exercise 1: [12 marks]
 Write a Java application that simulates a test. The test contains at least five questions about first
